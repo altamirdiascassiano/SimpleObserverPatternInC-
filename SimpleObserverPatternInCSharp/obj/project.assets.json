@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Altamir Dias Cassian\\source\\repos\\SimpleObserverPatternInCSharp\\SimpleObserverPatternInCSharp\\SimpleObserverPatternInCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Altamir Dias Cassian\\source\\repos\\SimpleObserverPatternInCSharp2\\SimpleObserverPatternInCSharp\\SimpleObserverPatternInCSharp.csproj",
       "projectName": "SimpleObserverPatternInCSharp",
-      "projectPath": "C:\\Users\\Altamir Dias Cassian\\source\\repos\\SimpleObserverPatternInCSharp\\SimpleObserverPatternInCSharp\\SimpleObserverPatternInCSharp.csproj",
+      "projectPath": "C:\\Users\\Altamir Dias Cassian\\source\\repos\\SimpleObserverPatternInCSharp2\\SimpleObserverPatternInCSharp\\SimpleObserverPatternInCSharp.csproj",
       "packagesPath": "C:\\Users\\Altamir Dias Cassian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Altamir Dias Cassian\\source\\repos\\SimpleObserverPatternInCSharp\\SimpleObserverPatternInCSharp\\obj\\",
+      "outputPath": "C:\\Users\\Altamir Dias Cassian\\source\\repos\\SimpleObserverPatternInCSharp2\\SimpleObserverPatternInCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Altamir Dias Cassian\\AppData\\Roaming\\NuGet\\NuGet.Config",
